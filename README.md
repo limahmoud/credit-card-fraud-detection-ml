@@ -4,14 +4,7 @@
 A supervised machine learning project for identifying potentially fraudulent credit card transactions. The notebook covers exploratory data analysis, preprocessing, model tuning, evaluation, and ensemble learning.
 
 ## Dataset
-The notebook expects the original `creditcard.csv` dataset in the `data/` directory:
-
-```text
-credit-card-fraud-detection-ml/
-├── data/
-│   └── creditcard.csv   # not included in this repository
-└── notebooks/
-    └── Credit_Card_Fraud_Detection.ipynb
+my privte and call me
 ```
 
 The dataset is not committed because it is not part of the uploaded project files. Download it from the original dataset source and place it at `data/creditcard.csv` before running the notebook.
